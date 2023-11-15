@@ -1,0 +1,60 @@
+Nome: Mateus
+
+Nota 1: 10,00
+Nota 2: 10,00
+Média: 10,00
+
+Nome: Marcos
+
+Nota 1: 8,00
+Nota 2: 6,00
+Média: 7,00
+
+Nome: Mariana
+
+Nota 1: 9,00
+Nota 2: 3,00
+Média: 6,00
+
+Nome: Luciana
+
+Nota 1: 4,00
+Nota 2: 10,00
+Média: 7,00
+
+Nome: Karina
+
+Nota 1: 7,00
+Nota 2: 9,00
+Média: 8,00
+
+Nome: Hugo
+
+Nota 1: 8,00
+Nota 2: 2,00
+Média: 5,00
+
+Nome: Gabriela
+
+Nota 1: 9,00
+Nota 2: 10,00
+Média: 9,50
+
+Nome: Fernando
+
+Nota 1: 4,00
+Nota 2: 3,00
+Média: 3,50
+
+Nome: Fabiano
+
+Nota 1: 7,00
+Nota 2: 8,00
+Média: 7,50
+
+Nome: Daniela
+
+Nota 1: 6,00
+Nota 2: 9,00
+Média: 7,50
+
